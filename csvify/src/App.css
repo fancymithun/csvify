@@ -9,6 +9,10 @@ textarea:focus{
     outline: none;
 }
 
+/* tbody td:last-child{
+    display: none;
+} */
+
 button{
     margin-top: 5px;
     min-width: 40.4vw;
